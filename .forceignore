@@ -115,8 +115,9 @@ sfdx-source/sfdx/main/default/staticresources/SiteSamples.resource-meta.xml
 
 
 
-
-sfdx-source/untracked
+# Keep commented so files in this 
+# folder are not tracked in git.
+# sfdx-source/untracked
 
 
 # temporary work around
