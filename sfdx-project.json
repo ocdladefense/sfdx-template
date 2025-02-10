@@ -1,14 +1,14 @@
 {
-  "name": "ExampleSfdxRepository",
+  "name": "MyPackage",
   "namespace": "",
   "packageDirectories": [
     {
       "path": "sfdx-source/Modules/default",
-      "package": "DefaultModule",
-      "versionName": "ver 0.1",
+      "package": "My Package",
+      "versionName": "Fall '24",
       "versionNumber": "0.1.0.NEXT",
       "default": false,
-      "versionDescription": "Created as part of the GitHub template for sfdx repositories.",
+      "versionDescription": "A concise description of my package.",
       "dependencies": [
         {
             "package": "Json"
@@ -28,6 +28,6 @@
     }
   ],
   "sfdcLoginUrl": "https://test.salesforce.com",
-  "sourceApiVersion": "58.0",
+  "sourceApiVersion": "62.0",
   "packageAliases": {}
 }
